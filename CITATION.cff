@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Phantom Blade Zero PC Trainer & Combat Frame Overlay"
+abstract: "Phantom Blade Zero PC Trainer & Combat Frame Overlay [2026] — User-mode Windows x64 overlay suite featuring 3D bounding boxes, rarity loot."
+authors:
+  - alias: "Bianchi61"
+    name: "Bianchi61"
+version: "3.9.3"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc"
+url: "https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/"

@@ -1,0 +1,22 @@
+{
+  "module": "pzb-trainer-phantom-blade-zero-pc",
+  "version": "3.9.3",
+  "runtime": {
+    "portable_mode": true,
+    "auto_backup_registry": true,
+    "verify_signatures": true,
+    "theme": "dark",
+    "log_level": "info"
+  },
+  "modules": {
+    "lifecycle_manager": {
+      "enabled": true,
+      "clean_temp_cache": true,
+      "preserve_user_profiles": true
+    },
+    "service_optimizer": {
+      "enabled": true,
+      "disable_telemetry_tasks": true
+    }
+  }
+}

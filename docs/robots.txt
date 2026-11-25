@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/sitemap.xml

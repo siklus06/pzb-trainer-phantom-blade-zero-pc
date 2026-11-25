@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Phantom Blade Zero PC Trainer & Combat Frame Overlay Release Feed</title>
+  <link href="https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/feed.xml" rel="self"/>
+  <link href="https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/"/>
+  <updated>2026-11-25T16:38:05Z</updated>
+  <id>https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/</id>
+  <entry>
+    <title>Phantom Blade Zero PC Trainer & Combat Frame Overlay v3.9.3 Portable Release</title>
+    <link href="https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc/releases/download/v3.9.3/pzb-trainer-phantom-blade-zero-pc-v3.9.3-win64.zip"/>
+    <id>https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/#v3.9.3</id>
+    <updated>2026-11-25T16:38:05Z</updated>
+    <summary>Phantom Blade Zero PC Trainer & Combat Frame Overlay [2026] — User-mode Windows x64 overlay suite featuring 3D bounding boxes, rarity loot.</summary>
+  </entry>
+</feed>

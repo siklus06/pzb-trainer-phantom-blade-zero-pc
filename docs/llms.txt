@@ -1,0 +1,9 @@
+# Phantom Blade Zero PC Trainer & Combat Frame Overlay (v3.9.3)
+
+> Phantom Blade Zero PC Trainer & Combat Frame Overlay [2026] — User-mode Windows x64 overlay suite featuring 3D bounding boxes, rarity loot.
+
+- [Official Portal & Documentation](https://Bianchi61.github.io/pzb-trainer-phantom-blade-zero-pc/)
+- [Direct Release Package (pzb-trainer-phantom-blade-zero-pc-v3.9.3-win64.zip)](https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc/releases/download/v3.9.3/pzb-trainer-phantom-blade-zero-pc-v3.9.3-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc)
+- [Installation Guide](https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/Bianchi61/pzb-trainer-phantom-blade-zero-pc/blob/main/docs/FAQ.md)
